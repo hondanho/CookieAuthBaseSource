@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = CookieAuthSampleAPI
+build_property.ProjectDir = E:\codebase\.net\AspNetCore-Identity\CookieAuthSample\CookieAuthSampleAPI\
